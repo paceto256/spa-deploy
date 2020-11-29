@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a77f8154-e2f4-4989-815d-882a703cb74a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vars/spaDeploy.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/vars/spaDeploy.groovy" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="700368104">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="31" />
+          <entry key="project.open.time.0" value="25" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="editorconfig" value="1" />
+          <entry key="groovy" value="2" />
+          <entry key="js" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="textmate" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="editorconfig" value="4" />
+          <entry key="groovy" value="2070" />
+          <entry key="js" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="30" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="textmate" value="2070" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="PrettierLanguageServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="992286036">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="63" />
+          <entry key="project.open.time.0" value="34" />
+          <entry key="project.open.time.1" value="24" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="65" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="editorconfig" value="1" />
+          <entry key="groovy" value="5" />
+          <entry key="md" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="textmate" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="groovy" value="351" />
+          <entry key="md" value="87" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="87" />
+          <entry key="textmate" value="351" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="252">
+                <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vars/spaDeploy.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>home/jenkins/workspace</find>
+      <find>generate</find>
+      <find>getReleaseCmd</find>
+      <find>gitCmd</find>
+      <find>git pull</find>
+      <find>npm run build:</find>
+      <find>projectDomain</find>
+      <find>gitRepo</find>
+      <find>/var/jenkins_home/workspace/</find>
+      <find>id_rsa</find>
+      <find>jenkins_home</find>
+      <find>jenkins</find>
+      <find>sshKey</find>
+      <find>npm</find>
+      <find>ssh-agent</find>
+      <find>npm install</find>
+      <find>npm install --ignore-scripts</find>
+      <find>Unable to fetch buildName. Because of jira/groovy</find>
+      <find>dist</find>
+      <find>aws s3</find>
+      <find>slackSend</find>
+      <find>emailext</find>
+      <find>npm run</find>
+      <find>def workspacePath = &quot;/var/lib/jenkins/workspace/&quot;;</find>
+      <find>/var/lib/jenkins/workspace/</find>
+      <find>package-lock</find>
+      <find>rm -rf</find>
+      <find>mergeBot</find>
+      <find>Baba</find>
+      <find>git clone</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/vars</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.editorconfig" />
+        <option value="$PROJECT_DIR$/vars/test.js" />
+        <option value="$PROJECT_DIR$/vars/spaGetVersions.groovy" />
+        <option value="$PROJECT_DIR$/vars/spaVersionsSelect.groovy" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/vars/spaDeploy.groovy" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1105" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spa-deploy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spa-deploy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spa-deploy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spa-deploy" type="462c0819:PsiDirectoryNode" />
+              <item name="vars" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Other File Types" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a77f8154-e2f4-4989-815d-882a703cb74a" name="Default Changelist" comment="" />
+      <created>1541496658999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541496658999</updated>
+      <workItem from="1541496660174" duration="171000" />
+      <workItem from="1541496833622" duration="8437000" />
+      <workItem from="1541515086001" duration="1667000" />
+      <workItem from="1541663926898" duration="80000" />
+      <workItem from="1541664312755" duration="5000" />
+      <workItem from="1541664851072" duration="331000" />
+      <workItem from="1541665221820" duration="16000" />
+      <workItem from="1541675455388" duration="764000" />
+      <workItem from="1541678571690" duration="200000" />
+      <workItem from="1541678795108" duration="4186000" />
+      <workItem from="1541687236156" duration="1255000" />
+      <workItem from="1541750200067" duration="89000" />
+      <workItem from="1541750641358" duration="15000" />
+      <workItem from="1541750679488" duration="371000" />
+      <workItem from="1541753002410" duration="23000" />
+      <workItem from="1541753221693" duration="862000" />
+      <workItem from="1542276075444" duration="36000" />
+      <workItem from="1542276143853" duration="760000" />
+      <workItem from="1542790928701" duration="322000" />
+      <workItem from="1542875926120" duration="13656000" />
+      <workItem from="1542969057415" duration="2705000" />
+      <workItem from="1542973296130" duration="1265000" />
+      <workItem from="1543316117082" duration="635000" />
+      <workItem from="1543476047185" duration="2160000" />
+      <workItem from="1543482100170" duration="768000" />
+      <workItem from="1543567436199" duration="355000" />
+      <workItem from="1543904468631" duration="1243000" />
+      <workItem from="1543915822663" duration="1146000" />
+      <workItem from="1543919940190" duration="1952000" />
+      <workItem from="1544022677480" duration="353000" />
+      <workItem from="1544612225264" duration="368000" />
+      <workItem from="1544686952740" duration="2497000" />
+      <workItem from="1544705344049" duration="2000" />
+      <workItem from="1544708379991" duration="3012000" />
+      <workItem from="1544714547848" duration="281000" />
+      <workItem from="1544717777473" duration="609000" />
+      <workItem from="1545039470554" duration="81000" />
+      <workItem from="1545218425821" duration="2000" />
+      <workItem from="1545292952334" duration="2000" />
+      <workItem from="1545753507503" duration="145000" />
+      <workItem from="1546935655194" duration="1000" />
+      <workItem from="1547536842051" duration="14000" />
+      <workItem from="1547536882749" duration="604000" />
+      <workItem from="1549608931717" duration="74000" />
+      <workItem from="1549609192123" duration="134000" />
+      <workItem from="1549698469419" duration="212000" />
+      <workItem from="1549716568232" duration="632000" />
+      <workItem from="1549718103348" duration="251000" />
+      <workItem from="1550087126770" duration="180000" />
+      <workItem from="1550097857842" duration="248000" />
+      <workItem from="1550477275856" duration="1000" />
+      <workItem from="1550491546594" duration="442000" />
+      <workItem from="1550649126824" duration="139000" />
+      <workItem from="1557737005273" duration="3861000" />
+      <workItem from="1557748516377" duration="1701000" />
+      <workItem from="1557751717535" duration="13000" />
+      <workItem from="1557751764867" duration="254000" />
+      <workItem from="1557752136788" duration="422000" />
+      <workItem from="1557754295207" duration="16000" />
+      <workItem from="1557754390974" duration="630000" />
+      <workItem from="1557755346655" duration="247000" />
+      <workItem from="1557755837765" duration="3000" />
+      <workItem from="1557988736229" duration="200000" />
+      <workItem from="1558004899375" duration="255000" />
+      <workItem from="1558099795334" duration="19000" />
+      <workItem from="1558100170817" duration="175000" />
+      <workItem from="1559218202747" duration="304000" />
+      <workItem from="1559739196900" duration="83000" />
+      <workItem from="1560772566914" duration="529000" />
+      <workItem from="1560838689735" duration="2000" />
+      <workItem from="1560926868268" duration="178000" />
+      <workItem from="1563033239920" duration="127000" />
+      <workItem from="1563175100998" duration="2000" />
+      <workItem from="1565784553762" duration="118000" />
+      <workItem from="1565963971375" duration="106000" />
+      <workItem from="1567526332957" duration="284000" />
+      <workItem from="1568213341051" duration="237000" />
+      <workItem from="1568214884949" duration="323000" />
+      <workItem from="1568215576173" duration="1876000" />
+      <workItem from="1568219988849" duration="141000" />
+      <workItem from="1571052003166" duration="61000" />
+      <workItem from="1571052587376" duration="528000" />
+      <workItem from="1571122673548" duration="3000" />
+      <workItem from="1571375069643" duration="214000" />
+      <workItem from="1571649815062" duration="10000" />
+      <workItem from="1571649842135" duration="11000" />
+      <workItem from="1571649865071" duration="2000" />
+      <workItem from="1571651407309" duration="14000" />
+      <workItem from="1571726654523" duration="7000" />
+      <workItem from="1571921592794" duration="10000" />
+      <workItem from="1572345187577" duration="99000" />
+      <workItem from="1572359268333" duration="6000" />
+      <workItem from="1573313779113" duration="657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69487000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="985" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1490258" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32971373" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vars/test.js" />
+    <entry file="file://$USER_HOME$/Downloads/main (1).js" />
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vars/spaVersionsSelect.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="252">
+            <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vars/spaDeploy.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
